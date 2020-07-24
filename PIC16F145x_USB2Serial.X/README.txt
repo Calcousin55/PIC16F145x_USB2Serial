@@ -1,0 +1,1 @@
+To Configure LEDs, USB Power Sensing, and DSR/DTR/RTS/CTS update the defines in io_mapping.h file

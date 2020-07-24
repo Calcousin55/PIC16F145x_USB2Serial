@@ -1,0 +1,1 @@
+mcc settings used to generate the UART/USB files. Sime changes were done to the generated file for CDC serial implementation.
