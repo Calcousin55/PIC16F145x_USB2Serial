@@ -98,7 +98,7 @@
     #define USB_CDC_RTS_ACTIVE_LEVEL    1
     #define USB_CDC_CTS_ACTIVE_LEVEL    1
     #define USB_CDC_DSR_ACTIVE_LEVEL    1
-    #define USB_CDC_DTR_ACTIVE_LEVEL    1
+    #define USB_CDC_DTR_ACTIVE_LEVEL    0
 
     /** I/O pin definitions **************************************************************************/
 
